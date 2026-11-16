@@ -1,0 +1,5 @@
+Action,Modèle,RMSE ($),MAE ($),MAPE (%),Précision directionnelle (%)
+AAPL,LSTM,2.33,1.76,1.14,54.55
+AAPL,Naïf (P_t+1 = P_t),2.34,1.77,1.14,
+MSFT,LSTM,4.41,3.34,1.09,57.14
+MSFT,Naïf (P_t+1 = P_t),4.44,3.36,1.1,
